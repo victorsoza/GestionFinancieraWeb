@@ -19,4 +19,4 @@ Reemplaza los valores de `firebaseConfig` en `src/firebase.js` con los de tu pro
 
 ---
 
-Esta app es un ejemplo básico y puede ser extendida con autenticación, categorías, filtros, etc.
+Esta app es un ejemplo básico y puede ser extendida con autenticación, categorías, filtros, etc. 
