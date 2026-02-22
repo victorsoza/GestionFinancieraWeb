@@ -47,6 +47,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1 style={{textAlign: 'center', color: '#1976d2'}}>¡App desplegada correctamente en Firebase!</h1>
       {user ? (
         <>
           <div className="container">
